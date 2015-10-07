@@ -1,4 +1,4 @@
-test rails blog app Jacob
+Test Rails Blog App - Jacob
 
 == README - updated
 
